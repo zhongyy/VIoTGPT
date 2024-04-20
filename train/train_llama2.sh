@@ -1,9 +1,9 @@
-CUDA_VISIBLE_DEVICES='0,1,2' deepspeed --master_port=20002 train_lora.py \
-    --model_name_or_path /home/zhongyaoyao/projects/models/7B_hf-yy/ \
-    --data_path  /home/zhongyaoyao/projects/VNGPT/agent_model/train_11tools_longname3.json \
+CUDA_VISIBLE_DEVICES='0,1,2,3' deepspeed --master_port=20002 train_lora.py \
+    --model_name_or_path ./models/7B_hf/ \
+    --data_path  ./VIoT-Tool/train.json \
     --bf16 True \
     --tf32 True \
-    --output_dir ./output/train_11tools_longname3_v2_llama2-7b_lora/  \
+    --output_dir ./output/train_llama2-7b_lora/  \
     --num_train_epochs 6 \
     --per_device_train_batch_size 2 \
     --per_device_eval_batch_size 2 \
@@ -21,4 +21,4 @@ CUDA_VISIBLE_DEVICES='0,1,2' deepspeed --master_port=20002 train_lora.py \
     --model_max_length 2048 \
     --gradient_checkpointing True \
     --lazy_preprocess True \
-    --deepspeed ds_configs/stage2.json 2>&1|tee ./output/train_11tools_longname3_v2_llama2-7b_lora.log
+    --deepspeed ds_configs/stage2.json 2>&1|tee ./output/train_llama2-7b_lora.log
