@@ -13,7 +13,6 @@ from transformers.models.llama.modeling_llama import (
     rotate_half,
 )
 
-
 def apply_rotary_pos_emb(q, k, cos_sin, position_ids):
     gather_indices = position_ids[:, :, None, None]  # [bsz, seq_len, 1, 1]
     gather_indices = gather_indices.repeat(
