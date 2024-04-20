@@ -1065,7 +1065,6 @@ class CrowdCounting:
                         outputs_scores = torch.nn.functional.softmax(outputs['pred_logits'], -1)[:, :, 1][0]
 
                         outputs_points = outputs['pred_points'][0]
-                        # draw the predictions
                         size = 5
                         img_to_draw = cv2.cvtColor(np.array(img_raw), cv2.COLOR_RGB2BGR)
                         for p in points:
