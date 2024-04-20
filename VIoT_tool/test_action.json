@@ -1,0 +1,1002 @@
+[
+    {
+        "id": "Elaborate on the action being carried out by the individuals in Weifang.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Weifang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Weifang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What specific action is being executed by the people seen in Weifang?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Weifang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Weifang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Can you break down the action portrayed by the people in Weifang?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Weifang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Weifang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Describe the action conducted by the individuals in Weifang.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Weifang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Weifang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action is evident from the people in Weifang?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Weifang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Weifang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Explain the action being performed by the people in Weifang.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Weifang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Weifang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What actions do the people in Weifang appear to be engaging in?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Weifang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Weifang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Provide a description of the action exhibited by the individuals in Weifang.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Weifang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Weifang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action showcased by the people in Weifang.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Weifang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Weifang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action can be inferred from the behavior of the people in {}?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Weifang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Weifang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action being carried out by the individuals in Zhuhai.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhuhai.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhuhai.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What specific action is being executed by the people seen in Zhuhai?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhuhai.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhuhai.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Can you break down the action portrayed by the people in Zhuhai?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhuhai.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhuhai.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Describe the action conducted by the individuals in Zhuhai.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhuhai.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhuhai.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action is evident from the people in Zhuhai?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhuhai.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhuhai.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Explain the action being performed by the people in Zhuhai.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhuhai.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhuhai.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What actions do the people in Zhuhai appear to be engaging in?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhuhai.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhuhai.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Provide a description of the action exhibited by the individuals in Zhuhai.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhuhai.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhuhai.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action showcased by the people in Zhuhai.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhuhai.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhuhai.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action can be inferred from the behavior of the people in {}?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhuhai.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhuhai.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action being carried out by the individuals in Shaoxing.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Shaoxing.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Shaoxing.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What specific action is being executed by the people seen in Shaoxing?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Shaoxing.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Shaoxing.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Can you break down the action portrayed by the people in Shaoxing?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Shaoxing.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Shaoxing.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Describe the action conducted by the individuals in Shaoxing.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Shaoxing.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Shaoxing.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action is evident from the people in Shaoxing?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Shaoxing.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Shaoxing.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Explain the action being performed by the people in Shaoxing.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Shaoxing.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Shaoxing.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What actions do the people in Shaoxing appear to be engaging in?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Shaoxing.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Shaoxing.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Provide a description of the action exhibited by the individuals in Shaoxing.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Shaoxing.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Shaoxing.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action showcased by the people in Shaoxing.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Shaoxing.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Shaoxing.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action can be inferred from the behavior of the people in {}?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Shaoxing.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Shaoxing.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action being carried out by the individuals in Yangzhou.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yangzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yangzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What specific action is being executed by the people seen in Yangzhou?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yangzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yangzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Can you break down the action portrayed by the people in Yangzhou?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yangzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yangzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Describe the action conducted by the individuals in Yangzhou.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yangzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yangzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action is evident from the people in Yangzhou?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yangzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yangzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Explain the action being performed by the people in Yangzhou.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yangzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yangzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What actions do the people in Yangzhou appear to be engaging in?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yangzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yangzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Provide a description of the action exhibited by the individuals in Yangzhou.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yangzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yangzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action showcased by the people in Yangzhou.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yangzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yangzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action can be inferred from the behavior of the people in {}?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yangzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yangzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action being carried out by the individuals in Yancheng.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yancheng.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yancheng.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What specific action is being executed by the people seen in Yancheng?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yancheng.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yancheng.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Can you break down the action portrayed by the people in Yancheng?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yancheng.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yancheng.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Describe the action conducted by the individuals in Yancheng.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yancheng.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yancheng.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action is evident from the people in Yancheng?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yancheng.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yancheng.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Explain the action being performed by the people in Yancheng.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yancheng.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yancheng.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What actions do the people in Yancheng appear to be engaging in?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yancheng.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yancheng.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Provide a description of the action exhibited by the individuals in Yancheng.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yancheng.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yancheng.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action showcased by the people in Yancheng.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yancheng.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yancheng.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action can be inferred from the behavior of the people in {}?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yancheng.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yancheng.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action being carried out by the individuals in Zibo.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zibo.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zibo.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What specific action is being executed by the people seen in Zibo?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zibo.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zibo.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Can you break down the action portrayed by the people in Zibo?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zibo.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zibo.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Describe the action conducted by the individuals in Zibo.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zibo.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zibo.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action is evident from the people in Zibo?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zibo.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zibo.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Explain the action being performed by the people in Zibo.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zibo.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zibo.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What actions do the people in Zibo appear to be engaging in?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zibo.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zibo.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Provide a description of the action exhibited by the individuals in Zibo.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zibo.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zibo.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action showcased by the people in Zibo.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zibo.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zibo.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action can be inferred from the behavior of the people in {}?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zibo.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zibo.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action being carried out by the individuals in Huaian.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Huaian.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Huaian.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What specific action is being executed by the people seen in Huaian?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Huaian.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Huaian.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Can you break down the action portrayed by the people in Huaian?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Huaian.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Huaian.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Describe the action conducted by the individuals in Huaian.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Huaian.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Huaian.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action is evident from the people in Huaian?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Huaian.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Huaian.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Explain the action being performed by the people in Huaian.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Huaian.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Huaian.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What actions do the people in Huaian appear to be engaging in?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Huaian.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Huaian.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Provide a description of the action exhibited by the individuals in Huaian.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Huaian.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Huaian.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action showcased by the people in Huaian.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Huaian.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Huaian.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action can be inferred from the behavior of the people in {}?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Huaian.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Huaian.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action being carried out by the individuals in Jinhua.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Jinhua.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Jinhua.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What specific action is being executed by the people seen in Jinhua?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Jinhua.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Jinhua.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Can you break down the action portrayed by the people in Jinhua?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Jinhua.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Jinhua.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Describe the action conducted by the individuals in Jinhua.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Jinhua.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Jinhua.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action is evident from the people in Jinhua?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Jinhua.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Jinhua.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Explain the action being performed by the people in Jinhua.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Jinhua.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Jinhua.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What actions do the people in Jinhua appear to be engaging in?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Jinhua.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Jinhua.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Provide a description of the action exhibited by the individuals in Jinhua.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Jinhua.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Jinhua.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action showcased by the people in Jinhua.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Jinhua.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Jinhua.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action can be inferred from the behavior of the people in {}?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Jinhua.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Jinhua.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action being carried out by the individuals in Nanchong.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Nanchong.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Nanchong.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What specific action is being executed by the people seen in Nanchong?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Nanchong.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Nanchong.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Can you break down the action portrayed by the people in Nanchong?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Nanchong.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Nanchong.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Describe the action conducted by the individuals in Nanchong.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Nanchong.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Nanchong.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action is evident from the people in Nanchong?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Nanchong.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Nanchong.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Explain the action being performed by the people in Nanchong.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Nanchong.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Nanchong.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What actions do the people in Nanchong appear to be engaging in?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Nanchong.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Nanchong.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Provide a description of the action exhibited by the individuals in Nanchong.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Nanchong.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Nanchong.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action showcased by the people in Nanchong.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Nanchong.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Nanchong.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action can be inferred from the behavior of the people in {}?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Nanchong.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Nanchong.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action being carried out by the individuals in Xuzhou.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Xuzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Xuzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What specific action is being executed by the people seen in Xuzhou?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Xuzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Xuzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Can you break down the action portrayed by the people in Xuzhou?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Xuzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Xuzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Describe the action conducted by the individuals in Xuzhou.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Xuzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Xuzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action is evident from the people in Xuzhou?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Xuzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Xuzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Explain the action being performed by the people in Xuzhou.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Xuzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Xuzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What actions do the people in Xuzhou appear to be engaging in?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Xuzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Xuzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Provide a description of the action exhibited by the individuals in Xuzhou.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Xuzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Xuzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action showcased by the people in Xuzhou.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Xuzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Xuzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action can be inferred from the behavior of the people in {}?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Xuzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Xuzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action being carried out by the individuals in Fushun.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Fushun.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Fushun.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What specific action is being executed by the people seen in Fushun?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Fushun.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Fushun.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Can you break down the action portrayed by the people in Fushun?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Fushun.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Fushun.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Describe the action conducted by the individuals in Fushun.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Fushun.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Fushun.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action is evident from the people in Fushun?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Fushun.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Fushun.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Explain the action being performed by the people in Fushun.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Fushun.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Fushun.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What actions do the people in Fushun appear to be engaging in?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Fushun.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Fushun.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Provide a description of the action exhibited by the individuals in Fushun.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Fushun.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Fushun.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action showcased by the people in Fushun.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Fushun.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Fushun.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action can be inferred from the behavior of the people in {}?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Fushun.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Fushun.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action being carried out by the individuals in Wuhu.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Wuhu.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Wuhu.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What specific action is being executed by the people seen in Wuhu?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Wuhu.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Wuhu.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Can you break down the action portrayed by the people in Wuhu?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Wuhu.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Wuhu.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Describe the action conducted by the individuals in Wuhu.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Wuhu.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Wuhu.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action is evident from the people in Wuhu?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Wuhu.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Wuhu.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Explain the action being performed by the people in Wuhu.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Wuhu.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Wuhu.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What actions do the people in Wuhu appear to be engaging in?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Wuhu.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Wuhu.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Provide a description of the action exhibited by the individuals in Wuhu.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Wuhu.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Wuhu.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action showcased by the people in Wuhu.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Wuhu.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Wuhu.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action can be inferred from the behavior of the people in {}?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Wuhu.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Wuhu.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action being carried out by the individuals in Datong.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Datong.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Datong.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What specific action is being executed by the people seen in Datong?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Datong.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Datong.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Can you break down the action portrayed by the people in Datong?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Datong.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Datong.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Describe the action conducted by the individuals in Datong.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Datong.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Datong.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action is evident from the people in Datong?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Datong.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Datong.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Explain the action being performed by the people in Datong.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Datong.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Datong.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What actions do the people in Datong appear to be engaging in?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Datong.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Datong.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Provide a description of the action exhibited by the individuals in Datong.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Datong.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Datong.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action showcased by the people in Datong.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Datong.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Datong.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action can be inferred from the behavior of the people in {}?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Datong.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Datong.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action being carried out by the individuals in Quanzhou.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Quanzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Quanzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What specific action is being executed by the people seen in Quanzhou?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Quanzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Quanzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Can you break down the action portrayed by the people in Quanzhou?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Quanzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Quanzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Describe the action conducted by the individuals in Quanzhou.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Quanzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Quanzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action is evident from the people in Quanzhou?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Quanzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Quanzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Explain the action being performed by the people in Quanzhou.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Quanzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Quanzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What actions do the people in Quanzhou appear to be engaging in?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Quanzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Quanzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Provide a description of the action exhibited by the individuals in Quanzhou.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Quanzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Quanzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action showcased by the people in Quanzhou.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Quanzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Quanzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action can be inferred from the behavior of the people in {}?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Quanzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Quanzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action being carried out by the individuals in Yinchuan.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yinchuan.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yinchuan.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What specific action is being executed by the people seen in Yinchuan?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yinchuan.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yinchuan.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Can you break down the action portrayed by the people in Yinchuan?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yinchuan.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yinchuan.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Describe the action conducted by the individuals in Yinchuan.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yinchuan.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yinchuan.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action is evident from the people in Yinchuan?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yinchuan.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yinchuan.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Explain the action being performed by the people in Yinchuan.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yinchuan.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yinchuan.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What actions do the people in Yinchuan appear to be engaging in?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yinchuan.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yinchuan.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Provide a description of the action exhibited by the individuals in Yinchuan.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yinchuan.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yinchuan.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action showcased by the people in Yinchuan.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yinchuan.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yinchuan.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action can be inferred from the behavior of the people in {}?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Yinchuan.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Yinchuan.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action being carried out by the individuals in Jilin.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Jilin.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Jilin.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What specific action is being executed by the people seen in Jilin?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Jilin.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Jilin.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Can you break down the action portrayed by the people in Jilin?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Jilin.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Jilin.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Describe the action conducted by the individuals in Jilin.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Jilin.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Jilin.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action is evident from the people in Jilin?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Jilin.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Jilin.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Explain the action being performed by the people in Jilin.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Jilin.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Jilin.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What actions do the people in Jilin appear to be engaging in?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Jilin.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Jilin.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Provide a description of the action exhibited by the individuals in Jilin.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Jilin.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Jilin.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action showcased by the people in Jilin.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Jilin.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Jilin.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action can be inferred from the behavior of the people in {}?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Jilin.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Jilin.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action being carried out by the individuals in Zhangzhou.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhangzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhangzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What specific action is being executed by the people seen in Zhangzhou?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhangzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhangzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Can you break down the action portrayed by the people in Zhangzhou?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhangzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhangzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Describe the action conducted by the individuals in Zhangzhou.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhangzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhangzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action is evident from the people in Zhangzhou?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhangzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhangzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Explain the action being performed by the people in Zhangzhou.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhangzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhangzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What actions do the people in Zhangzhou appear to be engaging in?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhangzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhangzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Provide a description of the action exhibited by the individuals in Zhangzhou.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhangzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhangzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action showcased by the people in Zhangzhou.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhangzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhangzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action can be inferred from the behavior of the people in {}?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhangzhou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhangzhou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action being carried out by the individuals in Shantou.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Shantou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Shantou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What specific action is being executed by the people seen in Shantou?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Shantou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Shantou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Can you break down the action portrayed by the people in Shantou?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Shantou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Shantou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Describe the action conducted by the individuals in Shantou.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Shantou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Shantou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action is evident from the people in Shantou?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Shantou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Shantou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Explain the action being performed by the people in Shantou.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Shantou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Shantou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What actions do the people in Shantou appear to be engaging in?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Shantou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Shantou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Provide a description of the action exhibited by the individuals in Shantou.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Shantou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Shantou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action showcased by the people in Shantou.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Shantou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Shantou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action can be inferred from the behavior of the people in {}?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Shantou.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Shantou.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action being carried out by the individuals in Luoyang.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Luoyang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Luoyang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What specific action is being executed by the people seen in Luoyang?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Luoyang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Luoyang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Can you break down the action portrayed by the people in Luoyang?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Luoyang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Luoyang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Describe the action conducted by the individuals in Luoyang.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Luoyang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Luoyang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action is evident from the people in Luoyang?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Luoyang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Luoyang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Explain the action being performed by the people in Luoyang.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Luoyang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Luoyang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What actions do the people in Luoyang appear to be engaging in?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Luoyang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Luoyang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Provide a description of the action exhibited by the individuals in Luoyang.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Luoyang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Luoyang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action showcased by the people in Luoyang.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Luoyang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Luoyang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action can be inferred from the behavior of the people in {}?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Luoyang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Luoyang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action being carried out by the individuals in Zhanjiang.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhanjiang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhanjiang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What specific action is being executed by the people seen in Zhanjiang?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhanjiang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhanjiang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Can you break down the action portrayed by the people in Zhanjiang?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhanjiang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhanjiang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Describe the action conducted by the individuals in Zhanjiang.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhanjiang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhanjiang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action is evident from the people in Zhanjiang?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhanjiang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhanjiang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Explain the action being performed by the people in Zhanjiang.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhanjiang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhanjiang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What actions do the people in Zhanjiang appear to be engaging in?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhanjiang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhanjiang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Provide a description of the action exhibited by the individuals in Zhanjiang.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhanjiang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhanjiang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Elaborate on the action showcased by the people in Zhanjiang.",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhanjiang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhanjiang.pkl\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "What action can be inferred from the behavior of the people in {}?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Detect the Human Pose\nAction Input: video/Zhanjiang.mp4\nObservation: \nThought: Do I need to use a tool? Yes.\nAction: Recognize the Action Condition on Pose\nAction Input: results/HumanPose_Zhanjiang.pkl\nObservation: \n",
+        "result": ""
+    }
+]

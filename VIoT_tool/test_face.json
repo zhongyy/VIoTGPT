@@ -1,0 +1,608 @@
+[
+    {
+        "query": "Can you verify the presence of the face in the uploaded image in Zibo?",
+        "img_path": "./query/ID1_new/0.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Zibo.mp4"
+    },
+    {
+        "query": "Could you ascertain whether the face shown in the uploaded image has a connection to Yangzhou?",
+        "img_path": "./query/ID1_new/1.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Yangzhou.mp4"
+    },
+    {
+        "query": "Can you verify the presence of the face in the uploaded image in Fushun?",
+        "img_path": "./query/ID1_new/2.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Fushun.mp4"
+    },
+    {
+        "query": "Could you ascertain whether the face shown in the uploaded image has a connection to Yancheng?",
+        "img_path": "./query/ID1_new/3.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Yancheng.mp4"
+    },
+    {
+        "query": "Can you investigate whether the face shown in the uploaded image has appeared in Jilin?",
+        "img_path": "./query/ID1_new/4.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Jilin.mp4"
+    },
+    {
+        "query": "Has the face in the uploaded image been sighted in Yancheng?",
+        "img_path": "./query/ID1_new/5.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Yancheng.mp4"
+    },
+    {
+        "query": "Has anyone reported recognizing the face displayed in the uploaded image in Quanzhou?",
+        "img_path": "./query/ID1_new/6.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Quanzhou.mp4"
+    },
+    {
+        "query": "Is there any information available about the face in the uploaded image being in Zhangzhou?",
+        "img_path": "./query/ID1_new/7.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Zhangzhou.mp4"
+    },
+    {
+        "query": "Could you ascertain whether the face shown in the uploaded image has a connection to Fushun?",
+        "img_path": "./query/ID1_new/8.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Fushun.mp4"
+    },
+    {
+        "query": "Can you confirm if the face from the uploaded image has been sighted in Shantou before?",
+        "img_path": "./query/ID1_new/9.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Shantou.mp4"
+    },
+    {
+        "query": "Has anyone reported recognizing the face displayed in the uploaded image in Luoyang?",
+        "img_path": "./query/ID1_new/10.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Luoyang.mp4"
+    },
+    {
+        "query": "Is there any chance that the face depicted in the uploaded image has appeared in Zhuhai?",
+        "img_path": "./query/ID1_new/11.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Zhuhai.mp4"
+    },
+    {
+        "query": "Is there any chance that the face depicted in the uploaded image has appeared in Yancheng?",
+        "img_path": "./query/ID1_new/12.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Yancheng.mp4"
+    },
+    {
+        "query": "Has the face in the uploaded image been recognized or identified in Weifang previously?",
+        "img_path": "./query/ID1_new/13.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Weifang.mp4"
+    },
+    {
+        "query": "Is there any information available about the face in the uploaded image being in Huaian?",
+        "img_path": "./query/ID1_new/14.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Huaian.mp4"
+    },
+    {
+        "query": "Could you validate if the face from the uploaded image has been seen in Zhangzhou?",
+        "img_path": "./query/ID1_new/15.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Zhangzhou.mp4"
+    },
+    {
+        "query": "Is there any chance that the face depicted in the uploaded image has appeared in Zhangzhou?",
+        "img_path": "./query/ID1_new/16.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Zhangzhou.mp4"
+    },
+    {
+        "query": "Can you investigate whether the face shown in the uploaded image has appeared in Yinchuan?",
+        "img_path": "./query/ID1_new/17.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Yinchuan.mp4"
+    },
+    {
+        "query": "Can you investigate whether the face shown in the uploaded image has appeared in Yinchuan?",
+        "img_path": "./query/ID1_new/18.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Yinchuan.mp4"
+    },
+    {
+        "query": "Could you validate if the face from the uploaded image has been seen in Nanchong?",
+        "img_path": "./query/ID1_new/19.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Nanchong.mp4"
+    },
+    {
+        "query": "Can you confirm if the face from the uploaded image has been sighted in Luoyang before?",
+        "img_path": "./query/ID1_new/20.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Luoyang.mp4"
+    },
+    {
+        "query": "Has the face in the uploaded image been sighted in Quanzhou?",
+        "img_path": "./query/ID1_new/21.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Quanzhou.mp4"
+    },
+    {
+        "query": "Has the face in the uploaded image been sighted in Shantou?",
+        "img_path": "./query/ID1_new/22.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Shantou.mp4"
+    },
+    {
+        "query": "Can you verify the presence of the face in the uploaded image in Weifang?",
+        "img_path": "./query/ID1_new/23.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Weifang.mp4"
+    },
+    {
+        "query": "Is there any chance that the face depicted in the uploaded image has appeared in Fushun?",
+        "img_path": "./query/ID1_new/24.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Fushun.mp4"
+    },
+    {
+        "query": "Can you confirm if the face from the uploaded image has been sighted in Wuhu before?",
+        "img_path": "./query/ID1_new/25.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Wuhu.mp4"
+    },
+    {
+        "query": "Has the face in the uploaded image been recognized or identified in Zhuhai previously?",
+        "img_path": "./query/ID1_new/26.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Zhuhai.mp4"
+    },
+    {
+        "query": "Is there any information available about the face in the uploaded image being in Xuzhou?",
+        "img_path": "./query/ID1_new/27.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Xuzhou.mp4"
+    },
+    {
+        "query": "Is there any information available about the face in the uploaded image being in Zibo?",
+        "img_path": "./query/ID1_new/28.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Zibo.mp4"
+    },
+    {
+        "query": "Can you verify the presence of the face in the uploaded image in Zhanjiang?",
+        "img_path": "./query/ID1_new/29.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Zhanjiang.mp4"
+    },
+    {
+        "query": "Has anyone reported recognizing the face displayed in the uploaded image in Wuhu?",
+        "img_path": "./query/ID1_new/30.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Wuhu.mp4"
+    },
+    {
+        "query": "Could you ascertain whether the face shown in the uploaded image has a connection to Yancheng?",
+        "img_path": "./query/ID1_new/31.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Yancheng.mp4"
+    },
+    {
+        "query": "Has the face in the uploaded image been recognized or identified in Huaian previously?",
+        "img_path": "./query/ID1_new/32.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Huaian.mp4"
+    },
+    {
+        "query": "Can you verify the presence of the face in the uploaded image in Quanzhou?",
+        "img_path": "./query/ID1_new/33.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Quanzhou.mp4"
+    },
+    {
+        "query": "Has the face in the uploaded image been recognized or identified in Yancheng previously?",
+        "img_path": "./query/ID1_new/34.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Yancheng.mp4"
+    },
+    {
+        "query": "Could you validate if the face from the uploaded image has been seen in Shantou?",
+        "img_path": "./query/ID1_new/35.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Shantou.mp4"
+    },
+    {
+        "query": "Is there any chance that the face depicted in the uploaded image has appeared in Jilin?",
+        "img_path": "./query/ID1_new/36.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Jilin.mp4"
+    },
+    {
+        "query": "Has the face in the uploaded image been recognized or identified in Huaian previously?",
+        "img_path": "./query/ID1_new/37.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Huaian.mp4"
+    },
+    {
+        "query": "Can you investigate whether the face shown in the uploaded image has appeared in Quanzhou?",
+        "img_path": "./query/ID1_new/38.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Quanzhou.mp4"
+    },
+    {
+        "query": "Could you validate if the face from the uploaded image has been seen in Nanchong?",
+        "img_path": "./query/ID1_new/39.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Nanchong.mp4"
+    },
+    {
+        "query": "Has the face in the uploaded image been recognized or identified in Huaian previously?",
+        "img_path": "./query/ID1_new/40.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Huaian.mp4"
+    },
+    {
+        "query": "Can you confirm if the face from the uploaded image has been sighted in Jinhua before?",
+        "img_path": "./query/ID1_new/41.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Jinhua.mp4"
+    },
+    {
+        "query": "Is there any chance that the face depicted in the uploaded image has appeared in Yancheng?",
+        "img_path": "./query/ID1_new/42.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Yancheng.mp4"
+    },
+    {
+        "query": "Can you investigate whether the face shown in the uploaded image has appeared in Fushun?",
+        "img_path": "./query/ID1_new/43.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Fushun.mp4"
+    },
+    {
+        "query": "Has the face in the uploaded image been sighted in Nanchong?",
+        "img_path": "./query/ID1_new/44.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Nanchong.mp4"
+    },
+    {
+        "query": "Has anyone reported recognizing the face displayed in the uploaded image in Zhuhai?",
+        "img_path": "./query/ID1_new/45.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Zhuhai.mp4"
+    },
+    {
+        "query": "Can you confirm if the face from the uploaded image has been sighted in Shantou before?",
+        "img_path": "./query/ID1_new/46.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Shantou.mp4"
+    },
+    {
+        "query": "Could you validate if the face from the uploaded image has been seen in Weifang?",
+        "img_path": "./query/ID1_new/47.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Weifang.mp4"
+    },
+    {
+        "query": "Can you verify the presence of the face in the uploaded image in Zibo?",
+        "img_path": "./query/ID1_new/48.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Zibo.mp4"
+    },
+    {
+        "query": "Can you verify the presence of the face in the uploaded image in Huaian?",
+        "img_path": "./query/ID1_new/49.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Huaian.mp4"
+    },
+    {
+        "query": "Is there any chance that the face depicted in the uploaded image has appeared in Yangzhou?",
+        "img_path": "./query/ID2_new/0.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Yangzhou.mp4"
+    },
+    {
+        "query": "Can you verify the presence of the face in the uploaded image in Shaoxing?",
+        "img_path": "./query/ID2_new/1.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Shaoxing.mp4"
+    },
+    {
+        "query": "Can you confirm if the face from the uploaded image has been sighted in Shaoxing before?",
+        "img_path": "./query/ID2_new/2.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Shaoxing.mp4"
+    },
+    {
+        "query": "Can you verify the presence of the face in the uploaded image in Zhanjiang?",
+        "img_path": "./query/ID2_new/3.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Zhanjiang.mp4"
+    },
+    {
+        "query": "Can you investigate whether the face shown in the uploaded image has appeared in Fushun?",
+        "img_path": "./query/ID2_new/4.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Fushun.mp4"
+    },
+    {
+        "query": "Has the face in the uploaded image been recognized or identified in Weifang previously?",
+        "img_path": "./query/ID2_new/5.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Weifang.mp4"
+    },
+    {
+        "query": "Could you validate if the face from the uploaded image has been seen in Quanzhou?",
+        "img_path": "./query/ID2_new/6.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Quanzhou.mp4"
+    },
+    {
+        "query": "Can you investigate whether the face shown in the uploaded image has appeared in Jilin?",
+        "img_path": "./query/ID2_new/7.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Jilin.mp4"
+    },
+    {
+        "query": "Could you validate if the face from the uploaded image has been seen in Fushun?",
+        "img_path": "./query/ID2_new/8.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Fushun.mp4"
+    },
+    {
+        "query": "Has the face in the uploaded image been recognized or identified in Zhuhai previously?",
+        "img_path": "./query/ID2_new/9.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Zhuhai.mp4"
+    },
+    {
+        "query": "Has anyone reported recognizing the face displayed in the uploaded image in Luoyang?",
+        "img_path": "./query/ID2_new/10.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Luoyang.mp4"
+    },
+    {
+        "query": "Can you verify the presence of the face in the uploaded image in Zibo?",
+        "img_path": "./query/ID2_new/11.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Zibo.mp4"
+    },
+    {
+        "query": "Can you confirm if the face from the uploaded image has been sighted in Yancheng before?",
+        "img_path": "./query/ID2_new/12.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Yancheng.mp4"
+    },
+    {
+        "query": "Has the face in the uploaded image been recognized or identified in Zibo previously?",
+        "img_path": "./query/ID2_new/13.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Zibo.mp4"
+    },
+    {
+        "query": "Can you investigate whether the face shown in the uploaded image has appeared in Zhuhai?",
+        "img_path": "./query/ID2_new/14.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Zhuhai.mp4"
+    },
+    {
+        "query": "Is there any information available about the face in the uploaded image being in Zhangzhou?",
+        "img_path": "./query/ID2_new/15.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Zhangzhou.mp4"
+    },
+    {
+        "query": "Can you confirm if the face from the uploaded image has been sighted in Zhangzhou before?",
+        "img_path": "./query/ID2_new/16.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Zhangzhou.mp4"
+    },
+    {
+        "query": "Can you verify the presence of the face in the uploaded image in Weifang?",
+        "img_path": "./query/ID2_new/17.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Weifang.mp4"
+    },
+    {
+        "query": "Could you validate if the face from the uploaded image has been seen in Zhuhai?",
+        "img_path": "./query/ID2_new/18.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Zhuhai.mp4"
+    },
+    {
+        "query": "Can you confirm if the face from the uploaded image has been sighted in Shaoxing before?",
+        "img_path": "./query/ID2_new/19.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Shaoxing.mp4"
+    },
+    {
+        "query": "Can you investigate whether the face shown in the uploaded image has appeared in Weifang?",
+        "img_path": "./query/ID2_new/20.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Weifang.mp4"
+    },
+    {
+        "query": "Could you validate if the face from the uploaded image has been seen in Luoyang?",
+        "img_path": "./query/ID2_new/21.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Luoyang.mp4"
+    },
+    {
+        "query": "Could you validate if the face from the uploaded image has been seen in Zhuhai?",
+        "img_path": "./query/ID2_new/22.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Zhuhai.mp4"
+    },
+    {
+        "query": "Has anyone reported recognizing the face displayed in the uploaded image in Wuhu?",
+        "img_path": "./query/ID2_new/23.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Wuhu.mp4"
+    },
+    {
+        "query": "Is there any information available about the face in the uploaded image being in Zibo?",
+        "img_path": "./query/ID2_new/24.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Zibo.mp4"
+    },
+    {
+        "query": "Could you ascertain whether the face shown in the uploaded image has a connection to Zhanjiang?",
+        "img_path": "./query/ID2_new/25.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Zhanjiang.mp4"
+    },
+    {
+        "query": "Could you ascertain whether the face shown in the uploaded image has a connection to Fushun?",
+        "img_path": "./query/ID2_new/26.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Fushun.mp4"
+    },
+    {
+        "query": "Can you confirm if the face from the uploaded image has been sighted in Wuhu before?",
+        "img_path": "./query/ID2_new/27.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Wuhu.mp4"
+    },
+    {
+        "query": "Can you verify the presence of the face in the uploaded image in Jilin?",
+        "img_path": "./query/ID2_new/28.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Jilin.mp4"
+    },
+    {
+        "query": "Is there any chance that the face depicted in the uploaded image has appeared in Shantou?",
+        "img_path": "./query/ID2_new/29.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Shantou.mp4"
+    },
+    {
+        "query": "Can you confirm if the face from the uploaded image has been sighted in Quanzhou before?",
+        "img_path": "./query/ID2_new/30.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Quanzhou.mp4"
+    },
+    {
+        "query": "Has anyone reported recognizing the face displayed in the uploaded image in Zibo?",
+        "img_path": "./query/ID2_new/31.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Zibo.mp4"
+    },
+    {
+        "query": "Could you ascertain whether the face shown in the uploaded image has a connection to Yinchuan?",
+        "img_path": "./query/ID2_new/32.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Yinchuan.mp4"
+    },
+    {
+        "query": "Can you investigate whether the face shown in the uploaded image has appeared in Zhuhai?",
+        "img_path": "./query/ID2_new/33.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Zhuhai.mp4"
+    },
+    {
+        "query": "Has anyone reported recognizing the face displayed in the uploaded image in Yancheng?",
+        "img_path": "./query/ID3_new/0.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Yancheng.mp4"
+    },
+    {
+        "query": "Can you confirm if the face from the uploaded image has been sighted in Fushun before?",
+        "img_path": "./query/ID3_new/1.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Fushun.mp4"
+    },
+    {
+        "query": "Is there any chance that the face depicted in the uploaded image has appeared in Nanchong?",
+        "img_path": "./query/ID3_new/2.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Nanchong.mp4"
+    },
+    {
+        "query": "Can you investigate whether the face shown in the uploaded image has appeared in Nanchong?",
+        "img_path": "./query/ID3_new/3.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Nanchong.mp4"
+    },
+    {
+        "query": "Has anyone reported recognizing the face displayed in the uploaded image in Xuzhou?",
+        "img_path": "./query/ID3_new/4.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Xuzhou.mp4"
+    },
+    {
+        "query": "Has the face in the uploaded image been sighted in Zibo?",
+        "img_path": "./query/ID3_new/5.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Zibo.mp4"
+    },
+    {
+        "query": "Has the face in the uploaded image been sighted in Jilin?",
+        "img_path": "./query/ID3_new/6.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Jilin.mp4"
+    },
+    {
+        "query": "Is there any chance that the face depicted in the uploaded image has appeared in Shantou?",
+        "img_path": "./query/ID3_new/7.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Shantou.mp4"
+    },
+    {
+        "query": "Has the face in the uploaded image been sighted in Jilin?",
+        "img_path": "./query/ID4_new/0.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Jilin.mp4"
+    },
+    {
+        "query": "Can you verify the presence of the face in the uploaded image in Zhuhai?",
+        "img_path": "./query/ID4_new/1.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Zhuhai.mp4"
+    },
+    {
+        "query": "Can you investigate whether the face shown in the uploaded image has appeared in Zibo?",
+        "img_path": "./query/ID4_new/2.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Zibo.mp4"
+    },
+    {
+        "query": "Can you confirm if the face from the uploaded image has been sighted in Weifang before?",
+        "img_path": "./query/ID4_new/3.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Weifang.mp4"
+    },
+    {
+        "query": "Can you verify the presence of the face in the uploaded image in Jinhua?",
+        "img_path": "./query/ID4_new/4.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Jinhua.mp4"
+    },
+    {
+        "query": "Can you investigate whether the face shown in the uploaded image has appeared in Yangzhou?",
+        "img_path": "./query/ID4_new/5.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Yangzhou.mp4"
+    },
+    {
+        "query": "Is there any chance that the face depicted in the uploaded image has appeared in Zhanjiang?",
+        "img_path": "./query/ID4_new/6.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Zhanjiang.mp4"
+    },
+    {
+        "query": "Has the face in the uploaded image been recognized or identified in Nanchong previously?",
+        "img_path": "./query/ID4_new/7.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Nanchong.mp4"
+    },
+    {
+        "query": "Could you validate if the face from the uploaded image has been seen in Quanzhou?",
+        "img_path": "./query/ID4_new/8.jpg",
+        "action": "Recognize the Face",
+        "action_input": "{query_upload_img_path},video/Quanzhou.mp4"
+    }
+]

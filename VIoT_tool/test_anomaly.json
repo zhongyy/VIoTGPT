@@ -1,0 +1,1002 @@
+[
+    {
+        "id": "Is there any strange activity in Weifang that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Weifang.mp4\nObservation: corridor\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: corridor,video/Anomaly_Weifang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any peculiar incidents in Weifang that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Weifang.mp4\nObservation: cell\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: cell,video/Anomaly_Weifang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any abnormalities in Weifang that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Weifang.mp4\nObservation: Big shopping mall\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Big shopping mall,video/Anomaly_Weifang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any out-of-the-ordinary behavior been observed in Weifang that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Weifang.mp4\nObservation: Gas station\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Gas station,video/Anomaly_Weifang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any departures from the norm in Weifang that could pose a threat to public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Weifang.mp4\nObservation: Big shopping mall\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Big shopping mall,video/Anomaly_Weifang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have any anomalies been witnessed in Weifang that may compromise public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Weifang.mp4\nObservation: Others\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Others,video/Anomaly_Weifang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any atypical activity in Weifang that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Weifang.mp4\nObservation: Classroom\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Classroom,video/Anomaly_Weifang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any unusual events in Weifang that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Weifang.mp4\nObservation: Factory\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Factory,video/Anomaly_Weifang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any irregularities in Weifang that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Weifang.mp4\nObservation: Place of play\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Place of play,video/Anomaly_Weifang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any aberrant behavior been noticed in Weifang that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Weifang.mp4\nObservation: Lounge room\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Lounge room,video/Anomaly_Weifang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any strange activity in Zhuhai that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhuhai.mp4\nObservation: Small shop/supermarket\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Small shop/supermarket,video/Anomaly_Zhuhai.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any peculiar incidents in Zhuhai that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhuhai.mp4\nObservation: Street\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Street,video/Anomaly_Zhuhai.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any abnormalities in Zhuhai that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhuhai.mp4\nObservation: Factory\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Factory,video/Anomaly_Zhuhai.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any out-of-the-ordinary behavior been observed in Zhuhai that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhuhai.mp4\nObservation: Car repair shop\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Car repair shop,video/Anomaly_Zhuhai.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any departures from the norm in Zhuhai that could pose a threat to public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhuhai.mp4\nObservation: ward\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: ward,video/Anomaly_Zhuhai.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have any anomalies been witnessed in Zhuhai that may compromise public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhuhai.mp4\nObservation: The yard/in front of the gate\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: The yard/in front of the gate,video/Anomaly_Zhuhai.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any atypical activity in Zhuhai that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhuhai.mp4\nObservation: Big shopping mall\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Big shopping mall,video/Anomaly_Zhuhai.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any unusual events in Zhuhai that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhuhai.mp4\nObservation: Lounge room\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Lounge room,video/Anomaly_Zhuhai.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any irregularities in Zhuhai that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhuhai.mp4\nObservation: Parking lot\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Parking lot,video/Anomaly_Zhuhai.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any aberrant behavior been noticed in Zhuhai that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhuhai.mp4\nObservation: Lobby/living room\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Lobby/living room,video/Anomaly_Zhuhai.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any strange activity in Shaoxing that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Shaoxing.mp4\nObservation: The yard/in front of the gate\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: The yard/in front of the gate,video/Anomaly_Shaoxing.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any peculiar incidents in Shaoxing that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Shaoxing.mp4\nObservation: Casino\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Casino,video/Anomaly_Shaoxing.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any abnormalities in Shaoxing that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Shaoxing.mp4\nObservation: Street\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Street,video/Anomaly_Shaoxing.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any out-of-the-ordinary behavior been observed in Shaoxing that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Shaoxing.mp4\nObservation: Others\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Others,video/Anomaly_Shaoxing.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any departures from the norm in Shaoxing that could pose a threat to public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Shaoxing.mp4\nObservation: Bank/business hall\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Bank/business hall,video/Anomaly_Shaoxing.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have any anomalies been witnessed in Shaoxing that may compromise public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Shaoxing.mp4\nObservation: corridor\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: corridor,video/Anomaly_Shaoxing.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any atypical activity in Shaoxing that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Shaoxing.mp4\nObservation: platform\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: platform,video/Anomaly_Shaoxing.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any unusual events in Shaoxing that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Shaoxing.mp4\nObservation: Small shop/supermarket\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Small shop/supermarket,video/Anomaly_Shaoxing.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any irregularities in Shaoxing that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Shaoxing.mp4\nObservation: cell\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: cell,video/Anomaly_Shaoxing.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any aberrant behavior been noticed in Shaoxing that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Shaoxing.mp4\nObservation: cell\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: cell,video/Anomaly_Shaoxing.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any strange activity in Yangzhou that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yangzhou.mp4\nObservation: The yard/in front of the gate\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: The yard/in front of the gate,video/Anomaly_Yangzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any peculiar incidents in Yangzhou that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yangzhou.mp4\nObservation: Street\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Street,video/Anomaly_Yangzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any abnormalities in Yangzhou that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yangzhou.mp4\nObservation: Lobby/living room\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Lobby/living room,video/Anomaly_Yangzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any out-of-the-ordinary behavior been observed in Yangzhou that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yangzhou.mp4\nObservation: Bedroom\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Bedroom,video/Anomaly_Yangzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any departures from the norm in Yangzhou that could pose a threat to public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yangzhou.mp4\nObservation: Restaurant\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Restaurant,video/Anomaly_Yangzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have any anomalies been witnessed in Yangzhou that may compromise public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yangzhou.mp4\nObservation: Big shopping mall\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Big shopping mall,video/Anomaly_Yangzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any atypical activity in Yangzhou that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yangzhou.mp4\nObservation: Bedroom\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Bedroom,video/Anomaly_Yangzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any unusual events in Yangzhou that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yangzhou.mp4\nObservation: Square\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Square,video/Anomaly_Yangzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any irregularities in Yangzhou that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yangzhou.mp4\nObservation: Parking lot\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Parking lot,video/Anomaly_Yangzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any aberrant behavior been noticed in Yangzhou that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yangzhou.mp4\nObservation: corridor\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: corridor,video/Anomaly_Yangzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any strange activity in Yancheng that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yancheng.mp4\nObservation: Street\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Street,video/Anomaly_Yancheng.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any peculiar incidents in Yancheng that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yancheng.mp4\nObservation: Casino\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Casino,video/Anomaly_Yancheng.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any abnormalities in Yancheng that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yancheng.mp4\nObservation: Casino\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Casino,video/Anomaly_Yancheng.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any out-of-the-ordinary behavior been observed in Yancheng that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yancheng.mp4\nObservation: ward\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: ward,video/Anomaly_Yancheng.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any departures from the norm in Yancheng that could pose a threat to public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yancheng.mp4\nObservation: Others\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Others,video/Anomaly_Yancheng.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have any anomalies been witnessed in Yancheng that may compromise public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yancheng.mp4\nObservation: cell\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: cell,video/Anomaly_Yancheng.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any atypical activity in Yancheng that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yancheng.mp4\nObservation: Bar\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Bar,video/Anomaly_Yancheng.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any unusual events in Yancheng that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yancheng.mp4\nObservation: corridor\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: corridor,video/Anomaly_Yancheng.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any irregularities in Yancheng that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yancheng.mp4\nObservation: Factory\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Factory,video/Anomaly_Yancheng.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any aberrant behavior been noticed in Yancheng that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yancheng.mp4\nObservation: Lounge room\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Lounge room,video/Anomaly_Yancheng.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any strange activity in Zibo that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zibo.mp4\nObservation: The stadium\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: The stadium,video/Anomaly_Zibo.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any peculiar incidents in Zibo that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zibo.mp4\nObservation: Bank/business hall\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Bank/business hall,video/Anomaly_Zibo.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any abnormalities in Zibo that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zibo.mp4\nObservation: In front of ATM\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: In front of ATM,video/Anomaly_Zibo.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any out-of-the-ordinary behavior been observed in Zibo that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zibo.mp4\nObservation: Bar\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Bar,video/Anomaly_Zibo.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any departures from the norm in Zibo that could pose a threat to public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zibo.mp4\nObservation: Inside the carriage\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Inside the carriage,video/Anomaly_Zibo.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have any anomalies been witnessed in Zibo that may compromise public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zibo.mp4\nObservation: In front of ATM\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: In front of ATM,video/Anomaly_Zibo.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any atypical activity in Zibo that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zibo.mp4\nObservation: Street\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Street,video/Anomaly_Zibo.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any unusual events in Zibo that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zibo.mp4\nObservation: The stadium\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: The stadium,video/Anomaly_Zibo.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any irregularities in Zibo that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zibo.mp4\nObservation: ward\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: ward,video/Anomaly_Zibo.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any aberrant behavior been noticed in Zibo that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zibo.mp4\nObservation: Car repair shop\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Car repair shop,video/Anomaly_Zibo.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any strange activity in Huaian that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Huaian.mp4\nObservation: Bank/business hall\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Bank/business hall,video/Anomaly_Huaian.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any peculiar incidents in Huaian that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Huaian.mp4\nObservation: Big shopping mall\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Big shopping mall,video/Anomaly_Huaian.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any abnormalities in Huaian that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Huaian.mp4\nObservation: corridor\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: corridor,video/Anomaly_Huaian.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any out-of-the-ordinary behavior been observed in Huaian that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Huaian.mp4\nObservation: Park\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Park,video/Anomaly_Huaian.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any departures from the norm in Huaian that could pose a threat to public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Huaian.mp4\nObservation: In the elevator\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: In the elevator,video/Anomaly_Huaian.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have any anomalies been witnessed in Huaian that may compromise public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Huaian.mp4\nObservation: Lobby/living room\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Lobby/living room,video/Anomaly_Huaian.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any atypical activity in Huaian that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Huaian.mp4\nObservation: Big shopping mall\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Big shopping mall,video/Anomaly_Huaian.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any unusual events in Huaian that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Huaian.mp4\nObservation: Others\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Others,video/Anomaly_Huaian.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any irregularities in Huaian that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Huaian.mp4\nObservation: Office\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Office,video/Anomaly_Huaian.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any aberrant behavior been noticed in Huaian that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Huaian.mp4\nObservation: The lane\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: The lane,video/Anomaly_Huaian.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any strange activity in Jinhua that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Jinhua.mp4\nObservation: Street\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Street,video/Anomaly_Jinhua.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any peculiar incidents in Jinhua that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Jinhua.mp4\nObservation: Small shop/supermarket\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Small shop/supermarket,video/Anomaly_Jinhua.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any abnormalities in Jinhua that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Jinhua.mp4\nObservation: Classroom\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Classroom,video/Anomaly_Jinhua.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any out-of-the-ordinary behavior been observed in Jinhua that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Jinhua.mp4\nObservation: Inside the carriage\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Inside the carriage,video/Anomaly_Jinhua.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any departures from the norm in Jinhua that could pose a threat to public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Jinhua.mp4\nObservation: platform\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: platform,video/Anomaly_Jinhua.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have any anomalies been witnessed in Jinhua that may compromise public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Jinhua.mp4\nObservation: Park\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Park,video/Anomaly_Jinhua.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any atypical activity in Jinhua that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Jinhua.mp4\nObservation: Small shop/supermarket\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Small shop/supermarket,video/Anomaly_Jinhua.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any unusual events in Jinhua that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Jinhua.mp4\nObservation: Park\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Park,video/Anomaly_Jinhua.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any irregularities in Jinhua that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Jinhua.mp4\nObservation: Bedroom\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Bedroom,video/Anomaly_Jinhua.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any aberrant behavior been noticed in Jinhua that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Jinhua.mp4\nObservation: Gas station\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Gas station,video/Anomaly_Jinhua.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any strange activity in Nanchong that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Nanchong.mp4\nObservation: Parking lot\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Parking lot,video/Anomaly_Nanchong.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any peculiar incidents in Nanchong that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Nanchong.mp4\nObservation: The yard/in front of the gate\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: The yard/in front of the gate,video/Anomaly_Nanchong.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any abnormalities in Nanchong that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Nanchong.mp4\nObservation: corridor\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: corridor,video/Anomaly_Nanchong.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any out-of-the-ordinary behavior been observed in Nanchong that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Nanchong.mp4\nObservation: Park\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Park,video/Anomaly_Nanchong.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any departures from the norm in Nanchong that could pose a threat to public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Nanchong.mp4\nObservation: stairwell\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: stairwell,video/Anomaly_Nanchong.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have any anomalies been witnessed in Nanchong that may compromise public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Nanchong.mp4\nObservation: In front of ATM\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: In front of ATM,video/Anomaly_Nanchong.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any atypical activity in Nanchong that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Nanchong.mp4\nObservation: Street\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Street,video/Anomaly_Nanchong.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any unusual events in Nanchong that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Nanchong.mp4\nObservation: In the elevator\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: In the elevator,video/Anomaly_Nanchong.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any irregularities in Nanchong that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Nanchong.mp4\nObservation: Big shopping mall\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Big shopping mall,video/Anomaly_Nanchong.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any aberrant behavior been noticed in Nanchong that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Nanchong.mp4\nObservation: Place of play\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Place of play,video/Anomaly_Nanchong.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any strange activity in Xuzhou that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Xuzhou.mp4\nObservation: stairwell\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: stairwell,video/Anomaly_Xuzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any peculiar incidents in Xuzhou that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Xuzhou.mp4\nObservation: Office\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Office,video/Anomaly_Xuzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any abnormalities in Xuzhou that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Xuzhou.mp4\nObservation: Parking lot\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Parking lot,video/Anomaly_Xuzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any out-of-the-ordinary behavior been observed in Xuzhou that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Xuzhou.mp4\nObservation: Lounge room\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Lounge room,video/Anomaly_Xuzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any departures from the norm in Xuzhou that could pose a threat to public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Xuzhou.mp4\nObservation: Lobby/living room\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Lobby/living room,video/Anomaly_Xuzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have any anomalies been witnessed in Xuzhou that may compromise public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Xuzhou.mp4\nObservation: The stadium\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: The stadium,video/Anomaly_Xuzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any atypical activity in Xuzhou that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Xuzhou.mp4\nObservation: Gas station\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Gas station,video/Anomaly_Xuzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any unusual events in Xuzhou that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Xuzhou.mp4\nObservation: In front of ATM\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: In front of ATM,video/Anomaly_Xuzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any irregularities in Xuzhou that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Xuzhou.mp4\nObservation: Parking lot\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Parking lot,video/Anomaly_Xuzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any aberrant behavior been noticed in Xuzhou that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Xuzhou.mp4\nObservation: Casino\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Casino,video/Anomaly_Xuzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any strange activity in Fushun that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Fushun.mp4\nObservation: In front of ATM\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: In front of ATM,video/Anomaly_Fushun.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any peculiar incidents in Fushun that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Fushun.mp4\nObservation: platform\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: platform,video/Anomaly_Fushun.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any abnormalities in Fushun that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Fushun.mp4\nObservation: Car repair shop\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Car repair shop,video/Anomaly_Fushun.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any out-of-the-ordinary behavior been observed in Fushun that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Fushun.mp4\nObservation: Factory\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Factory,video/Anomaly_Fushun.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any departures from the norm in Fushun that could pose a threat to public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Fushun.mp4\nObservation: In the elevator\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: In the elevator,video/Anomaly_Fushun.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have any anomalies been witnessed in Fushun that may compromise public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Fushun.mp4\nObservation: Lounge room\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Lounge room,video/Anomaly_Fushun.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any atypical activity in Fushun that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Fushun.mp4\nObservation: Bedroom\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Bedroom,video/Anomaly_Fushun.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any unusual events in Fushun that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Fushun.mp4\nObservation: The lane\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: The lane,video/Anomaly_Fushun.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any irregularities in Fushun that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Fushun.mp4\nObservation: In front of ATM\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: In front of ATM,video/Anomaly_Fushun.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any aberrant behavior been noticed in Fushun that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Fushun.mp4\nObservation: In the elevator\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: In the elevator,video/Anomaly_Fushun.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any strange activity in Wuhu that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Wuhu.mp4\nObservation: The yard/in front of the gate\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: The yard/in front of the gate,video/Anomaly_Wuhu.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any peculiar incidents in Wuhu that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Wuhu.mp4\nObservation: Street\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Street,video/Anomaly_Wuhu.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any abnormalities in Wuhu that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Wuhu.mp4\nObservation: The lane\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: The lane,video/Anomaly_Wuhu.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any out-of-the-ordinary behavior been observed in Wuhu that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Wuhu.mp4\nObservation: Small shop/supermarket\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Small shop/supermarket,video/Anomaly_Wuhu.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any departures from the norm in Wuhu that could pose a threat to public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Wuhu.mp4\nObservation: Lounge room\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Lounge room,video/Anomaly_Wuhu.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have any anomalies been witnessed in Wuhu that may compromise public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Wuhu.mp4\nObservation: Square\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Square,video/Anomaly_Wuhu.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any atypical activity in Wuhu that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Wuhu.mp4\nObservation: Square\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Square,video/Anomaly_Wuhu.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any unusual events in Wuhu that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Wuhu.mp4\nObservation: Lobby/living room\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Lobby/living room,video/Anomaly_Wuhu.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any irregularities in Wuhu that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Wuhu.mp4\nObservation: Factory\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Factory,video/Anomaly_Wuhu.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any aberrant behavior been noticed in Wuhu that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Wuhu.mp4\nObservation: Classroom\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Classroom,video/Anomaly_Wuhu.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any strange activity in Datong that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Datong.mp4\nObservation: In front of ATM\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: In front of ATM,video/Anomaly_Datong.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any peculiar incidents in Datong that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Datong.mp4\nObservation: Factory\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Factory,video/Anomaly_Datong.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any abnormalities in Datong that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Datong.mp4\nObservation: Inside the carriage\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Inside the carriage,video/Anomaly_Datong.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any out-of-the-ordinary behavior been observed in Datong that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Datong.mp4\nObservation: Big shopping mall\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Big shopping mall,video/Anomaly_Datong.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any departures from the norm in Datong that could pose a threat to public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Datong.mp4\nObservation: Place of play\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Place of play,video/Anomaly_Datong.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have any anomalies been witnessed in Datong that may compromise public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Datong.mp4\nObservation: corridor\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: corridor,video/Anomaly_Datong.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any atypical activity in Datong that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Datong.mp4\nObservation: Storage room\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Storage room,video/Anomaly_Datong.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any unusual events in Datong that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Datong.mp4\nObservation: Big shopping mall\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Big shopping mall,video/Anomaly_Datong.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any irregularities in Datong that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Datong.mp4\nObservation: Square\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Square,video/Anomaly_Datong.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any aberrant behavior been noticed in Datong that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Datong.mp4\nObservation: Internet bar\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Internet bar,video/Anomaly_Datong.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any strange activity in Quanzhou that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Quanzhou.mp4\nObservation: Others\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Others,video/Anomaly_Quanzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any peculiar incidents in Quanzhou that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Quanzhou.mp4\nObservation: Bank/business hall\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Bank/business hall,video/Anomaly_Quanzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any abnormalities in Quanzhou that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Quanzhou.mp4\nObservation: Others\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Others,video/Anomaly_Quanzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any out-of-the-ordinary behavior been observed in Quanzhou that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Quanzhou.mp4\nObservation: cell\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: cell,video/Anomaly_Quanzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any departures from the norm in Quanzhou that could pose a threat to public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Quanzhou.mp4\nObservation: Others\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Others,video/Anomaly_Quanzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have any anomalies been witnessed in Quanzhou that may compromise public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Quanzhou.mp4\nObservation: Office\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Office,video/Anomaly_Quanzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any atypical activity in Quanzhou that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Quanzhou.mp4\nObservation: platform\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: platform,video/Anomaly_Quanzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any unusual events in Quanzhou that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Quanzhou.mp4\nObservation: Factory\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Factory,video/Anomaly_Quanzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any irregularities in Quanzhou that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Quanzhou.mp4\nObservation: Big shopping mall\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Big shopping mall,video/Anomaly_Quanzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any aberrant behavior been noticed in Quanzhou that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Quanzhou.mp4\nObservation: Classroom\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Classroom,video/Anomaly_Quanzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any strange activity in Yinchuan that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yinchuan.mp4\nObservation: ward\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: ward,video/Anomaly_Yinchuan.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any peculiar incidents in Yinchuan that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yinchuan.mp4\nObservation: Casino\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Casino,video/Anomaly_Yinchuan.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any abnormalities in Yinchuan that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yinchuan.mp4\nObservation: Car repair shop\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Car repair shop,video/Anomaly_Yinchuan.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any out-of-the-ordinary behavior been observed in Yinchuan that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yinchuan.mp4\nObservation: Office\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Office,video/Anomaly_Yinchuan.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any departures from the norm in Yinchuan that could pose a threat to public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yinchuan.mp4\nObservation: Others\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Others,video/Anomaly_Yinchuan.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have any anomalies been witnessed in Yinchuan that may compromise public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yinchuan.mp4\nObservation: The yard/in front of the gate\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: The yard/in front of the gate,video/Anomaly_Yinchuan.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any atypical activity in Yinchuan that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yinchuan.mp4\nObservation: Bank/business hall\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Bank/business hall,video/Anomaly_Yinchuan.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any unusual events in Yinchuan that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yinchuan.mp4\nObservation: Park\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Park,video/Anomaly_Yinchuan.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any irregularities in Yinchuan that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yinchuan.mp4\nObservation: Others\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Others,video/Anomaly_Yinchuan.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any aberrant behavior been noticed in Yinchuan that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Yinchuan.mp4\nObservation: In the elevator\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: In the elevator,video/Anomaly_Yinchuan.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any strange activity in Jilin that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Jilin.mp4\nObservation: Bank/business hall\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Bank/business hall,video/Anomaly_Jilin.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any peculiar incidents in Jilin that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Jilin.mp4\nObservation: Street\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Street,video/Anomaly_Jilin.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any abnormalities in Jilin that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Jilin.mp4\nObservation: Gas station\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Gas station,video/Anomaly_Jilin.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any out-of-the-ordinary behavior been observed in Jilin that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Jilin.mp4\nObservation: Street\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Street,video/Anomaly_Jilin.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any departures from the norm in Jilin that could pose a threat to public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Jilin.mp4\nObservation: cell\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: cell,video/Anomaly_Jilin.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have any anomalies been witnessed in Jilin that may compromise public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Jilin.mp4\nObservation: Parking lot\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Parking lot,video/Anomaly_Jilin.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any atypical activity in Jilin that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Jilin.mp4\nObservation: Street\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Street,video/Anomaly_Jilin.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any unusual events in Jilin that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Jilin.mp4\nObservation: Bank/business hall\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Bank/business hall,video/Anomaly_Jilin.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any irregularities in Jilin that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Jilin.mp4\nObservation: Bank/business hall\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Bank/business hall,video/Anomaly_Jilin.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any aberrant behavior been noticed in Jilin that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Jilin.mp4\nObservation: Inside the carriage\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Inside the carriage,video/Anomaly_Jilin.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any strange activity in Zhangzhou that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhangzhou.mp4\nObservation: Casino\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Casino,video/Anomaly_Zhangzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any peculiar incidents in Zhangzhou that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhangzhou.mp4\nObservation: Factory\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Factory,video/Anomaly_Zhangzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any abnormalities in Zhangzhou that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhangzhou.mp4\nObservation: platform\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: platform,video/Anomaly_Zhangzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any out-of-the-ordinary behavior been observed in Zhangzhou that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhangzhou.mp4\nObservation: stairwell\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: stairwell,video/Anomaly_Zhangzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any departures from the norm in Zhangzhou that could pose a threat to public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhangzhou.mp4\nObservation: The lane\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: The lane,video/Anomaly_Zhangzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have any anomalies been witnessed in Zhangzhou that may compromise public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhangzhou.mp4\nObservation: Office\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Office,video/Anomaly_Zhangzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any atypical activity in Zhangzhou that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhangzhou.mp4\nObservation: Bar\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Bar,video/Anomaly_Zhangzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any unusual events in Zhangzhou that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhangzhou.mp4\nObservation: Bar\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Bar,video/Anomaly_Zhangzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any irregularities in Zhangzhou that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhangzhou.mp4\nObservation: Office\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Office,video/Anomaly_Zhangzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any aberrant behavior been noticed in Zhangzhou that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhangzhou.mp4\nObservation: Factory\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Factory,video/Anomaly_Zhangzhou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any strange activity in Shantou that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Shantou.mp4\nObservation: platform\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: platform,video/Anomaly_Shantou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any peculiar incidents in Shantou that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Shantou.mp4\nObservation: Bedroom\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Bedroom,video/Anomaly_Shantou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any abnormalities in Shantou that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Shantou.mp4\nObservation: Big shopping mall\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Big shopping mall,video/Anomaly_Shantou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any out-of-the-ordinary behavior been observed in Shantou that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Shantou.mp4\nObservation: corridor\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: corridor,video/Anomaly_Shantou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any departures from the norm in Shantou that could pose a threat to public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Shantou.mp4\nObservation: cell\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: cell,video/Anomaly_Shantou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have any anomalies been witnessed in Shantou that may compromise public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Shantou.mp4\nObservation: Big shopping mall\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Big shopping mall,video/Anomaly_Shantou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any atypical activity in Shantou that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Shantou.mp4\nObservation: Square\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Square,video/Anomaly_Shantou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any unusual events in Shantou that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Shantou.mp4\nObservation: In the elevator\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: In the elevator,video/Anomaly_Shantou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any irregularities in Shantou that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Shantou.mp4\nObservation: Park\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Park,video/Anomaly_Shantou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any aberrant behavior been noticed in Shantou that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Shantou.mp4\nObservation: Others\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Others,video/Anomaly_Shantou.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any strange activity in Luoyang that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Luoyang.mp4\nObservation: Internet bar\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Internet bar,video/Anomaly_Luoyang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any peculiar incidents in Luoyang that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Luoyang.mp4\nObservation: cell\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: cell,video/Anomaly_Luoyang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any abnormalities in Luoyang that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Luoyang.mp4\nObservation: The yard/in front of the gate\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: The yard/in front of the gate,video/Anomaly_Luoyang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any out-of-the-ordinary behavior been observed in Luoyang that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Luoyang.mp4\nObservation: Street\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Street,video/Anomaly_Luoyang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any departures from the norm in Luoyang that could pose a threat to public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Luoyang.mp4\nObservation: Storage room\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Storage room,video/Anomaly_Luoyang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have any anomalies been witnessed in Luoyang that may compromise public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Luoyang.mp4\nObservation: cell\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: cell,video/Anomaly_Luoyang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any atypical activity in Luoyang that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Luoyang.mp4\nObservation: Office\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Office,video/Anomaly_Luoyang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any unusual events in Luoyang that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Luoyang.mp4\nObservation: In the elevator\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: In the elevator,video/Anomaly_Luoyang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any irregularities in Luoyang that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Luoyang.mp4\nObservation: Others\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Others,video/Anomaly_Luoyang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any aberrant behavior been noticed in Luoyang that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Luoyang.mp4\nObservation: platform\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: platform,video/Anomaly_Luoyang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any strange activity in Zhanjiang that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhanjiang.mp4\nObservation: Bar\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Bar,video/Anomaly_Zhanjiang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any peculiar incidents in Zhanjiang that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhanjiang.mp4\nObservation: Street\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Street,video/Anomaly_Zhanjiang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any abnormalities in Zhanjiang that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhanjiang.mp4\nObservation: Internet bar\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Internet bar,video/Anomaly_Zhanjiang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any out-of-the-ordinary behavior been observed in Zhanjiang that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhanjiang.mp4\nObservation: Casino\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Casino,video/Anomaly_Zhanjiang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any departures from the norm in Zhanjiang that could pose a threat to public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhanjiang.mp4\nObservation: The stadium\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: The stadium,video/Anomaly_Zhanjiang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have any anomalies been witnessed in Zhanjiang that may compromise public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhanjiang.mp4\nObservation: cell\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: cell,video/Anomaly_Zhanjiang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Is there any atypical activity in Zhanjiang that could potentially jeopardize public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhanjiang.mp4\nObservation: In front of ATM\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: In front of ATM,video/Anomaly_Zhanjiang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Have there been any unusual events in Zhanjiang that could pose a risk to public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhanjiang.mp4\nObservation: Street\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Street,video/Anomaly_Zhanjiang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Are there any irregularities in Zhanjiang that could potentially endanger public security?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhanjiang.mp4\nObservation: Restaurant\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Restaurant,video/Anomaly_Zhanjiang.mp4\nObservation: \n",
+        "result": ""
+    },
+    {
+        "id": "Has any aberrant behavior been noticed in Zhanjiang that could impact public safety?",
+        "chains": "Thought: Do I need to use a tool? Yes.\nAction: Recognize the Scene in the Video\nAction Input: video/Anomaly_Zhanjiang.mp4\nObservation: Factory\nThought: Do I need to use a tool? Yes.\nAction: Detect Anomaly Condition on Video Scene\nAction Input: Factory,video/Anomaly_Zhanjiang.mp4\nObservation: \n",
+        "result": ""
+    }
+]
