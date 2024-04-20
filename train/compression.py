@@ -6,7 +6,6 @@ import torch.nn as nn
 from torch.nn import functional as F
 from transformers import AutoTokenizer, AutoModelForCausalLM, AutoConfig
 
-
 @dataclasses.dataclass
 class CompressionConfig:
     """Group-wise quantization."""
