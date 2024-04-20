@@ -1,0 +1,24 @@
+CUDA_VISIBLE_DEVICES='0,1,2' deepspeed --master_port=20002 train_lora.py \
+    --model_name_or_path /home/zhongyaoyao/projects/models/7B_hf-yy/ \
+    --data_path  /home/zhongyaoyao/projects/VNGPT/agent_model/train_11tools_longname3.json \
+    --bf16 True \
+    --tf32 True \
+    --output_dir ./output/train_11tools_longname3_v2_llama2-7b_lora/  \
+    --num_train_epochs 6 \
+    --per_device_train_batch_size 2 \
+    --per_device_eval_batch_size 2 \
+    --gradient_accumulation_steps 8 \
+    --evaluation_strategy "steps" \
+    --eval_steps 500 \
+    --save_strategy "steps" \
+    --save_steps 500 \
+    --save_total_limit 8 \
+    --learning_rate 2e-5 \
+    --weight_decay 0. \
+    --warmup_ratio 0.04 \
+    --lr_scheduler_type "cosine" \
+    --logging_steps 1 \
+    --model_max_length 2048 \
+    --gradient_checkpointing True \
+    --lazy_preprocess True \
+    --deepspeed ds_configs/stage2.json 2>&1|tee ./output/train_11tools_longname3_v2_llama2-7b_lora.log
