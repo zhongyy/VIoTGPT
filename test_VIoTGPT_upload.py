@@ -57,7 +57,7 @@ def cut_dialogue_history(history_memory, keep_last_n_words=500):
 
 class ConversationBot:
     def __init__(self, load_dict):
-        print(f"Initializing VideoNetGPT, load_dict={load_dict}")
+        print(f"Initializing VIoTGPT_nodemo, load_dict={load_dict}")
         self.models = {}
         # Load Basic Foundation Models
         for class_name, device in load_dict.items():
