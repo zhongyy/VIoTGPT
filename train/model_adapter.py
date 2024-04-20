@@ -85,7 +85,6 @@ def raise_warning_for_incompatible_cpu_offloading_configuration(
             return False
     return cpu_offloading
 
-
 def load_model(
     model_path: str,
     device: str,
@@ -215,7 +214,6 @@ def add_model_args(parser):
         help="Only when using 8-bit quantization: Offload excess weights to the CPU that don't fit on the GPU",
     )
 
-
 class VicunaAdapter(BaseAdapter):
     "Model adapater for vicuna-v1.1"
 
@@ -282,7 +280,6 @@ class ToolLlamaAdapter(BaseAdapter):
 
     def get_default_conv_template(self, model_path: str) -> Conversation:
         return get_conv_template("tool_llama")
-
 
 # Note: the registration order matters.
 # The one registered earlier has a higher matching priority.
