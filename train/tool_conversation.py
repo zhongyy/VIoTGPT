@@ -20,7 +20,6 @@ class SeparatorStyle(Enum):
     RWKV = auto()
     PHOENIX = auto()
 
-
 @dataclasses.dataclass
 class Conversation:
     """A class that keeps all conversation history."""
@@ -287,21 +286,7 @@ register_conv_template(
         sep2="</s>",
     )
 )
-'''
-register_conv_template(
-    Conversation(
-        name="tool_llama",
-        system="A chat between a curious user and an artificial intelligence assistant who can use external tools and APIs to solve the user's question. "
-        "The assistant gives tools and APIs calling processes or final answer to the human's question.",
-        roles=("Human", "Assistant"),
-        messages=(),
-        offset=0,
-        sep_style=SeparatorStyle.ADD_COLON_TWO,
-        sep=" ",
-        sep2="</s>",
-    )
-)
-'''
+
 
 if __name__ == "__main__":
     conv = get_conv_template("vicuna_v1.1")
