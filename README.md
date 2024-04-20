@@ -8,7 +8,7 @@ Download the pre-trained LLama-2-7b and Vicuna-7b, then download the LoRA weight
 
 ### VToT-Tool dataset
 1. [training](https://drive.google.com/file/d/10ZTkusnE5OjzUgi7JsD6JeY-nkRluSx9/view?usp=sharing). 
-2. [testing](https://drive.google.com/file/d/11A_m3ORWmJEoD8YGf7LrmLW_7-TLtvQZ/view?usp=sharing), copy it to "./VIoT_tool"
+2. [testing](https://drive.google.com/file/d/1kRWQYpzX4XS5Nz-NAFhCy5N-V8Xa1mUa/view?usp=sharing), copy it to "./VIoT_tool"
 
 ### Environment
 ```
