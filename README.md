@@ -2,12 +2,13 @@
 Codes, models, and VIoT-Tool dataset.
 
 ### VIoTGPT 
-1. [LLama-lora]().
-2. [Vicuna-lora]().
+Download the pre-trained LLama-2-7b and Vicuna-7b, then download the LoRA weights from the following links.
+1. [LLama-lora](https://drive.google.com/drive/folders/10kY7uuAH4XqVKTALK3jjy4VnUYzTaVZJ?usp=sharing).
+2. [Vicuna-lora](https://drive.google.com/drive/folders/10eF7fMXktVJZ30kdyVjuPUluAnJsw5o6?usp=sharing).
 
 ### VToT-Tool dataset
 1. [training](https://drive.google.com/file/d/10ZTkusnE5OjzUgi7JsD6JeY-nkRluSx9/view?usp=sharing). 
-2. [testing](). 
+2. [testing](https://drive.google.com/file/d/11A_m3ORWmJEoD8YGf7LrmLW_7-TLtvQZ/view?usp=sharing). 
 
 ### Environment
 ```
