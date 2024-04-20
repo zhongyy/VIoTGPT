@@ -128,10 +128,6 @@ def preprocess_DP0(
             parts2 = parts1[1].split(sep1_reject)
             AI_accept = parts2[0]
             AI_reject = parts2[1]
-            #print("====================================")
-            #print("prompt: ", Human_query)
-            #print("debug_chosen: ", AI_accept)
-            #print("debug_rejected: ", AI_reject)
             '''
             Human_query = tokenizer(
                 Human_query,
@@ -179,11 +175,6 @@ def preprocess(
             assert role == conv.roles[j % 2], f"{i}"
             conv.append_message(role, sentence["value"])
         conversations.append(conv.get_prompt())
-    '''
-    print('========================conversastions1============================')
-    print(conversations)
-    print('========================conversastions2============================')
-    '''
     # Tokenize conversations
     input_ids = tokenizer(
         conversations,
@@ -218,15 +209,7 @@ def preprocess(
             target[cur_len : cur_len + instruction_len] = IGNORE_TOKEN_ID
 
             cur_len += round_len
-            '''
-            print('========================conversastions1============================')
-            print(i, rou)
-            print('========================')
-            print(sep)
-            print('========================')
-            print(parts[0])
-            print('========================conversastions2============================')
-            '''
+
         target[cur_len:] = IGNORE_TOKEN_ID
 
         if False:
@@ -242,13 +225,11 @@ def preprocess(
                     f" (ignored)"
                 )
 
-
     return dict(
         input_ids=input_ids,
         labels=targets,
         attention_mask=input_ids.ne(tokenizer.pad_token_id),
     )
-
 
 class DPO_Dataset(Dataset): # TODO
     """Dataset for supervised fine-tuning."""
@@ -259,7 +240,7 @@ class DPO_Dataset(Dataset): # TODO
         rank0_print("Formatting DPO inputs...")
         sources = [example["conversations"] for example in raw_data]
         self.data_dict = preprocess_DP0(sources, self.tokenizer)
-        #embed()
+
 
     def __len__(self):
         return len(self.data_dict)
@@ -400,7 +381,6 @@ def train():
     trainer.save_state()
     safe_save_model_for_hf_trainer(trainer=trainer, output_dir=training_args.output_dir)
 
-
 if __name__ == "__main__":
     parser = transformers.HfArgumentParser(
         (ModelArguments, DataArguments, TrainingArguments, LoraArguments)
@@ -420,6 +400,5 @@ if __name__ == "__main__":
     )
     tokenizer.pad_token = tokenizer.unk_token
     raw_data = json.load(open(data_args.data_path, "r"))
-    #preprocess_DP0([raw_data[0]["conversations"]])
     data = DPO_Dataset(raw_data)
-    #embed()
+
